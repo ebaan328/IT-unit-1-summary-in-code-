@@ -1,0 +1,22 @@
+presentacion #1 (Introduccion a programmacion Visual Basic.)
+--------------------------------------------------------------------------------------------------------------------
+
+1 la presentacion se divide en x nodos (main): familiarizacion con conceptos de programacion.
+2	
+3	-terminologia
+	-funciones basicas de un programa
+	-operaciones basicas del programa(entrada, salida, aritmetica basica, operaciones de logica)
+	-almacenamiento de programas y data
+	-introduccion a herramientas de programacion a traves de:(visual studio)
+	-introduccion a lenguajes de programacion a traves de:(visual basic)
+	- .NET
+	-tipos de aplicaciones
+
+		y el contenido de estos x nodos serian:
+
+                   --terminologia:
+			++computadora	
+			++hardware
+			++software
+			++data
+ 

@@ -1,0 +1,14 @@
+C:\Users\EtnielArturoColónLab\Desktop\repasoExe\repaso\repaso\obj\Debug\netcoreapp3.1\repaso.csproj.AssemblyReference.cache
+C:\Users\EtnielArturoColónLab\Desktop\repasoExe\repaso\repaso\obj\Debug\netcoreapp3.1\repaso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EtnielArturoColónLab\Desktop\repasoExe\repaso\repaso\obj\Debug\netcoreapp3.1\repaso.AssemblyInfoInputs.cache
+C:\Users\EtnielArturoColónLab\Desktop\repasoExe\repaso\repaso\obj\Debug\netcoreapp3.1\repaso.AssemblyInfo.cs
+C:\Users\EtnielArturoColónLab\Desktop\repasoExe\repaso\repaso\obj\Debug\netcoreapp3.1\repaso.csproj.CoreCompileInputs.cache
+C:\Users\EtnielArturoColónLab\Desktop\repasoExe\repaso\repaso\bin\Debug\netcoreapp3.1\repaso.exe
+C:\Users\EtnielArturoColónLab\Desktop\repasoExe\repaso\repaso\bin\Debug\netcoreapp3.1\repaso.deps.json
+C:\Users\EtnielArturoColónLab\Desktop\repasoExe\repaso\repaso\bin\Debug\netcoreapp3.1\repaso.runtimeconfig.json
+C:\Users\EtnielArturoColónLab\Desktop\repasoExe\repaso\repaso\bin\Debug\netcoreapp3.1\repaso.runtimeconfig.dev.json
+C:\Users\EtnielArturoColónLab\Desktop\repasoExe\repaso\repaso\bin\Debug\netcoreapp3.1\repaso.dll
+C:\Users\EtnielArturoColónLab\Desktop\repasoExe\repaso\repaso\bin\Debug\netcoreapp3.1\repaso.pdb
+C:\Users\EtnielArturoColónLab\Desktop\repasoExe\repaso\repaso\obj\Debug\netcoreapp3.1\repaso.dll
+C:\Users\EtnielArturoColónLab\Desktop\repasoExe\repaso\repaso\obj\Debug\netcoreapp3.1\repaso.pdb
+C:\Users\EtnielArturoColónLab\Desktop\repasoExe\repaso\repaso\obj\Debug\netcoreapp3.1\repaso.genruntimeconfig.cache
